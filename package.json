@@ -9,7 +9,14 @@
     "start": "pcf-scripts start",
     "refreshTypes": "pcf-scripts refreshTypes"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@fluentui/react": "^8.98.6",
+    "mobx": "^6.6.2",
+    "mobx-react": "^7.5.3",
+    "pcf-react": "^1.0.13",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
   "devDependencies": {
     "@types/node": "^16.4",
     "@types/powerapps-component-framework": "^1.3.0",
