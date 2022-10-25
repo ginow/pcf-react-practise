@@ -13,3 +13,6 @@ Scott source at https://github.com/scottdurow/powerapps-pcf-samples/tree/master/
 `npm install -save mobx mobx-react`
 
 `npm install --save pcf-react` (refer https://www.npmjs.com/package/pcf-react)
+
+To run
+`npm start watch`
