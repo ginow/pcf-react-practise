@@ -1,5 +1,7 @@
 # pcf-react-practise
 
+demo at https://github.com/scottdurow/powerapps-pcf-samples/tree/master/PCFReactFieldDemo
+
 `pac pcf init --namespace dev1 --name calculator --template field`
 
 `npm install eslint --save-dev`
